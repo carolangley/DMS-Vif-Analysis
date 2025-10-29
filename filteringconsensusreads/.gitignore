@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+.ipynb_checkpoints/
+
+# Data/output
+*.fastq
+*.fastq.gz
+*.fasta
+consensuseachUMI/filtered/
+consensuseachUMI/consensus/
+consensuseachUMI/merged/
+outputs/

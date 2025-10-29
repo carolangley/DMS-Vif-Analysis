@@ -1,0 +1,2 @@
+biopython==1.83
+tqdm==4.66.4

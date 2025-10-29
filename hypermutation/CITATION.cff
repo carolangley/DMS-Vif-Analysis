@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: Please cite this repository if you use it in your research.
+title: Hypermutation Read Extractor
+authors:
+  - family-names: Langley
+    given-names: Caroline
+license: MIT
+version: 1.0.0
+date-released: 2025-10-29

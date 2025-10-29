@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+.ipynb_checkpoints/
+
+# Data/output
+*.fastq
+*.fastq.gz
+*.fasta
+hypermutationY40/
+outputs/
